@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\add_main_xml.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\add_main_xml.xml"
+    },
+    {
+        "merged": "com.example.proyectomanzanares.app-mergeDebugResources-47:/layout/content_main.xml",
+        "source": "com.example.proyectomanzanares.app-main-50:/layout/content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\edit_main_xml.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\edit_main_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\delete_main_xml.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\delete_main_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-mergeDebugResources-47:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Emanuel Garcia\\.gradle\\daemon\\8.4\\com.example.proyectomanzanares.app-main-50:\\layout\\content_main.xml"
+    }
+]
