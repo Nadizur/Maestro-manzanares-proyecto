@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditOrderActivity">
+
+    <!-- EditText para ingresar el ID de la orden -->
+    <EditText
+        android:id="@+id/editTextOrderID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Order ID"
+        android:inputType="number"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- Botón para buscar la orden -->
+    <Button
+        android:id="@+id/buttonSearchOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextOrderID"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Search Order"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        />
+
+    <!-- EditText para editar el ID del cliente -->
+    <EditText
+        android:id="@+id/editTextCustomerID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonSearchOrder"
+        android:hint="Customer ID"
+        android:inputType="number"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- EditText para editar la fecha de la orden -->
+    <EditText
+        android:id="@+id/editTextOrderDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextCustomerID"
+        android:hint="Order Date"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- EditText para editar el ID del producto -->
+    <EditText
+        android:id="@+id/editTextProductID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextOrderDate"
+        android:hint="Product ID"
+        android:inputType="number"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- EditText para editar la cantidad -->
+    <EditText
+        android:id="@+id/editTextQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextProductID"
+        android:hint="Quantity"
+        android:inputType="number"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- EditText para editar el precio unitario -->
+    <EditText
+        android:id="@+id/editTextUnitPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextQuantity"
+        android:hint="Unit Price"
+        android:inputType="numberDecimal"
+        android:layout_margin="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <!-- Botón para guardar los cambios -->
+    <Button
+        android:id="@+id/buttonSaveChanges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextUnitPrice"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Save Changes"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        />
+
+</RelativeLayout>
